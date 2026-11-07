@@ -71,7 +71,7 @@ I’m **Hardik Prem**, a **B.Tech CSE (AI & ML) student at VIT Chennai**. I arch
       <ul>
         <li>🎓 <b>Education:</b> B.Tech in CSE (Specialization in AI &amp; ML) @ <b>VIT Chennai</b></li>
         <li>🚀 <b>GDG On Campus, VIT Chennai:</b> App Development Lead — conducting Flutter bootcamps and mentoring developers for <i>DevsHouse ’26</i>.</li>
-        <li>💡 <b>Thanima Club:</b> Technical Lead — directing campus event platforms and internal mobile tooling.</li>
+        <li>💡 <b>Thanima Club:</b> Technical Member — Creating campus event platforms and internal mobile tooling.</li>
         <li>🤝 <b>Collaboration:</b> Open to mobile architecture, full-stack, and systems engineering opportunities.</li>
       </ul>
     </td>
